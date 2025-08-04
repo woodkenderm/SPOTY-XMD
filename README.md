@@ -173,7 +173,7 @@ jobs:
 ```
 
 <p align="center">
-  <a href="https://www.paypal.com/donate/?business=YOUR_PAYPAL_EMAIL_OR_ID&no_recurring=0&item_name=Support+my+project+development&currency_code=USD" target="_blank">
+  <a href="https://www.paypal.me/JuditteBlaise" target="_blank">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="DONATE ☺️" />
   </a>
 </p>
