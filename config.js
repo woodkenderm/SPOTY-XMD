@@ -40,28 +40,16 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links without removing member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "50946904797",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴅʏʙʏ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "ADD YOUR NAME HERE",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴇɢᴀʟᴏᴅᴏɴ ᴍᴅ*",
-// bot description    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/qjkpw0.jpg",
-// image for alive msg
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // auto react on all msgs
-ANTI_BAD: process.env.ANTI_BAD || "false",
-// anti bad words  
 MODE: process.env.MODE || "public",
 // public/private/inbox/group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
 // kick user if share link 
-AUTO_VOICE: process.env.AUTO_VOICE || "false",
-// auto voice messages
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
-// auto stickers 
-AUTO_REPLY: process.env.AUTO_REPLY || "false",
-// automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
