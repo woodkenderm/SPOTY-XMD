@@ -1,3 +1,4 @@
+# SPOTY-XMD
 
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
@@ -170,3 +171,37 @@ jobs:
     - name: Save state (Optional)
       run: |
         ./save_state.sh
+```
+
+## 👑 PROJECT OWNER 
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SPOTY MTF࿐➺
+
+<p align="">
+<a href='https://wa.me/50946904797?text=*ʜɪɪ+sᴘᴏᴛʏ+ᴍᴛғ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+SPOTY+XMD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## <h2 align="left">⚠️ REMINDER </h2>
+<p style="text-align: center; font-size: 1.2em;">
+
+- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+
+---
+
+<h2 align="left">ℹ️ NOTICE</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
+  
+---
+
+ <br>
+<h2 align="center"> ⚠️ DISCLAIMER ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
+</h3>
+
+<br>
