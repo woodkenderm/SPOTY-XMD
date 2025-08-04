@@ -1,6 +1,7 @@
+# SPOTY-XMD
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=𝐒𝐏𝐎𝐓𝐘-𝐗𝐌𝐃;𝐕𝐄𝐑𝐒𝐈𝐎𝐍+2025;𝐁𝐘+𝐒𝐏𝐎𝐓𝐘 𝐌𝐓𝐅" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=𝐒𝐏𝐎𝐓𝐘-𝐗𝐌𝐃;𝐕𝐄𝐑𝐒𝐈𝐎𝐍+2025;𝐁𝐘+𝐒𝐏𝐎𝐓𝐘+𝐌𝐓𝐅" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/spotymtf/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/SPOTY-XMD/count.svg" alt="Visitor Count" />
 </p>
 
 ---
