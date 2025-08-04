@@ -51,7 +51,7 @@ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHA
 
 
 ### 🔑 Get PAIR CODE
-[![SPOTY XMD PAIR](https://img.shields.io/badge/SPOTY%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https)
+[![SPOTY XMD PAIR](https://img.shields.io/badge/SPOTY%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://spoty-xmd-sessions.onrender.com)
 
 
 ---
