@@ -1,6 +1,6 @@
-name: megalodon-md
+name: spoty-xmd
 services:
-  - name: megalodon-md-service
+  - name: spoty-xmd-service
     type: web
     ports:
       - 5000
