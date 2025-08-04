@@ -9,7 +9,7 @@
     "restart": "pm2 restart SPOTY-XMD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+    "@whiskeysockets/baileys": "github:EdderBot02/bail",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -19,6 +19,7 @@
     "pm2": "^6.0.5",
     "util": "^0.12.4",
     "express": "latest",
+    "dotenv": "latest"
     "moment-timezone": "^0.5.45",
     "axios": "^1.2.5",
     "crypto-digest-sync": "^1.0.0",
