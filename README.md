@@ -6,13 +6,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ---
 
 
-  <p align="center">
-<a href="https://github.com/spotymtf/followers"><img title="Followers" src="https://img.shields.io/github/followers/spotymtf?color=blue&style=flat-square"></a>
-<a href="https://github.com/spotymtf/SPOTY-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/spotymtf/SPOTY-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/spotymtf/SPOTY-XMD"><img title="Size" src="https://img.shields.io/github/repo-size/spotymtf/SPOTY-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/spotymtf/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,6 +18,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 <a><img src='https://files.catbox.moe/qjkpw0.jpg'/></a>
 
+  <p align="center">
+<a href="https://github.com/spotymtf/followers"><img title="Followers" src="https://img.shields.io/github/followers/spotymtf?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD"><img title="Size" src="https://img.shields.io/github/repo-size/spotymtf/SPOTY-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/spotymtf/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
 
 
 ***
