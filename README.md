@@ -1,31 +1,32 @@
+# SPOTY-XMD
+-
+```
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
+```
+---
+
+
+  <p align="center">
+<a href="https://github.com/spotymtf/followers"><img title="Followers" src="https://img.shields.io/github/followers/spotymtf?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD"><img title="Size" src="https://img.shields.io/github/repo-size/spotymtf/SPOTY-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/spotymtf/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=𝐒𝐏𝐎𝐓𝐘-𝐗𝐌𝐃;𝐕𝐄𝐑𝐒𝐈𝐎𝐍+2025;𝐁𝐘+𝐒𝐏𝐎𝐓𝐘+𝐌𝐓𝐅" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=SPOTY-XMD;VERSION+2025;BY+SPOTY+MTF" alt="Typing SVG" />
   </a>
 </p>
+  
+--- 
 
-<h1 align="center">✨ 𝐓𝐇𝐄 𝐍𝐄𝐖 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 B𝐎𝐓✨<br> ʙʏ 𝐬ᴘᴏᴛʏ ᴍғ</h1>
+<a><img src='https://files.catbox.moe/qjkpw0.jpg'/></a>
 
----
 
-<p align="center">
-  <img src="https://files.catbox.moe/qjkpw0.jpg" width="700"/>
-</p>
 
----
-
-<p align="center">
-  <a href="https://github.com/spotymtf">
-    <img title="Author" src="https://img.shields.io/badge/Author-SPOTY%20TMF-ff004d?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g">
-    <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SPOTY-XMD/count.svg" alt="Visitor Count" />
-</p>
+***
 
 ---
 
