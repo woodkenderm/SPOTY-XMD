@@ -1,4 +1,4 @@
-// Powered by DybyTech
+// Powered by spoty mtf
 
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~vEVWTCiJ#aRxnDmgmgV6qQVmqaKX2eX61gZst6gzvS3WE5Tys_Is",
+SESSION_ID: process.env.SESSION_ID || "ADD YOUR SESSION ID HERE SPOTY~XMD~",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -46,8 +46,6 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴇɢ�
 // bot description    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/qjkpw0.jpg",
 // image for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SPOTY-XMD*⚡",
-// alive msg content
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
