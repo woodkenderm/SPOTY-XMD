@@ -6,7 +6,8 @@
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SPOTY-XMD",
     "stop": "pm2 stop SPOTY-XMD",
-    "restart": "pm2 restart SPOTY-XMD"
+    "restart": "pm2 restart SPOTY-XMD",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:EdderBot02/bail",
