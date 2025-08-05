@@ -19,6 +19,7 @@
     "pino": "^7.0.5",
     "pm2": "^6.0.5",
     "util": "^0.12.4",
+    "jimp": "^0.16.1",
     "express": "latest",
     "dotenv": "latest",
     "moment-timezone": "^0.5.45",
