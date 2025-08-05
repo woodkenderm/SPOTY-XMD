@@ -40,7 +40,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links without removing member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "50946904797",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ADD YOUR NAME HERE",
+OWNER_NAME: process.env.OWNER_NAME || "sᴘᴏᴛʏ ᴍᴛғ",
 // add bot owner name
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
